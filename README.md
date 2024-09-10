@@ -1,4 +1,4 @@
-# Tika-Web
+# Dogbook
 Tietokannat ja web-ohjelmointi -harjoitustyö
 
 Sovelluksen aiheena toimii koirien omistajien ja koiraa elämäänsä kaipaavien ihmisten
